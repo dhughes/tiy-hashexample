@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - hashing@localhost" uuid="924e9c6e-60da-450a-ad06-dc8bdf1a4726">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>hashing.*</schema-pattern>
+      <default-schemas>hashing.*</default-schemas>
+    </data-source>
+  </component>
+</project>
